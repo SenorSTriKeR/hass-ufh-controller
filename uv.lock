@@ -1185,7 +1185,7 @@ wheels = [
 
 [[package]]
 name = "hass-ufh-controller"
-version = "0.6.3"
+version = "0.6.4"
 source = { virtual = "." }
 
 [package.dev-dependencies]
